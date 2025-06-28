@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/lavbujak/Documents/GitHub/assignment-3-mazes-team116-cosc2804-sep24-chippy-chip-s",
+      "program": "/Users/lavbujak/Documents/GitHub/assignment-3-mazes-team116-cosc2804-sep24-chippy-chip-s/build/Debug/outDebug"
+    }
+  ]
+}

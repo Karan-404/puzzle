@@ -1,0 +1,92 @@
+
+Welcome to MineCraft MazeRunner!
+--------------------------------
+
+------------- MAIN MENU -------------
+1) Generate Maze
+2) Build Maze in MineCraft
+3) Solve Maze
+4) Show Team Information
+5) Exit
+
+Enter Menu item to continue: 
+Input Error: Enter a number between 1 and 5 ....
+
+------------- MAIN MENU -------------
+1) Generate Maze
+2) Build Maze in MineCraft
+3) Solve Maze
+4) Show Team Information
+5) Exit
+
+Enter Menu item to continue: 
+Input Error: Enter a number between 1 and 5 ....
+
+------------- MAIN MENU -------------
+1) Generate Maze
+2) Build Maze in MineCraft
+3) Solve Maze
+4) Show Team Information
+5) Exit
+
+Enter Menu item to continue: 
+
+------------- GENERATE MAZE -------------
+1) Read Maze from terminal
+2) Generate Random Maze
+3) Generate Maze Without Flattening the Terrain 
+4) Check the maze for loops and isolated areas 
+5) Back
+
+Enter Menu item to continue: 
+Input Error: Enter a number between 1 and 5 ....
+
+------------- GENERATE MAZE -------------
+1) Read Maze from terminal
+2) Generate Random Maze
+3) Generate Maze Without Flattening the Terrain 
+4) Check the maze for loops and isolated areas 
+5) Back
+
+Enter Menu item to continue: 
+Input Error: Enter a number between 1 and 5 ....
+
+------------- GENERATE MAZE -------------
+1) Read Maze from terminal
+2) Generate Random Maze
+3) Generate Maze Without Flattening the Terrain 
+4) Check the maze for loops and isolated areas 
+5) Back
+
+Enter Menu item to continue: 
+In Minecraft, navigate to where you need the maze to be built in Minecraft and type - done:
+Please type 'done' when ready:
+Please type 'done' when ready:
+Please type 'done' when ready:
+Enter the length and width of the maze:
+Both length and width need to be odd numbers! Please enter again:
+Input Error: Only positive integer values are allowed for dimensions. Please enter again:
+Input Error: Dimensions must be at least 3. Please enter again:
+Enter the maze structure:
+Maze read successfully
+**Printing Maze**
+BasePoint: (4831, 69, 4403)
+Structure:
+xxx
+..x
+x.x
+x.x
+xxx
+**End Printing Maze**
+
+------------- MAIN MENU -------------
+1) Generate Maze
+2) Build Maze in MineCraft
+3) Solve Maze
+4) Show Team Information
+5) Exit
+
+Enter Menu item to continue: 
+
+The End!
+

@@ -1,0 +1,113 @@
+Test mode activated.
+
+Welcome to MineCraft MazeRunner!
+--------------------------------
+
+------------- MAIN MENU -------------
+1) Generate Maze
+2) Build Maze in MineCraft
+3) Solve Maze
+4) Show Team Information
+5) Exit
+
+Enter Menu item to continue: 
+
+------------- SOLVE MAZE -------------
+1) Solve Manually
+2) Show Escape Route
+3) Shortest Path (BFS)
+4) Back
+
+Enter Menu item to continue: 
+Input Error: Enter a number between 1 and 4 ....
+
+------------- SOLVE MAZE -------------
+1) Solve Manually
+2) Show Escape Route
+3) Shortest Path (BFS)
+4) Back
+
+Enter Menu item to continue: 
+Input Error: Enter a number between 1 and 4 ....
+
+------------- SOLVE MAZE -------------
+1) Solve Manually
+2) Show Escape Route
+3) Shortest Path (BFS)
+4) Back
+
+Enter Menu item to continue: 
+Input Error: Enter a number between 1 and 4 ....
+
+------------- SOLVE MAZE -------------
+1) Solve Manually
+2) Show Escape Route
+3) Shortest Path (BFS)
+4) Back
+
+Enter Menu item to continue: 
+Input Error: Enter a number between 1 and 4 ....
+
+------------- SOLVE MAZE -------------
+1) Solve Manually
+2) Show Escape Route
+3) Shortest Path (BFS)
+4) Back
+
+Enter Menu item to continue: 
+Input Error: Enter a number between 1 and 4 ....
+
+------------- SOLVE MAZE -------------
+1) Solve Manually
+2) Show Escape Route
+3) Shortest Path (BFS)
+4) Back
+
+Enter Menu item to continue: 
+Input Error: Enter a number between 1 and 4 ....
+
+------------- SOLVE MAZE -------------
+1) Solve Manually
+2) Show Escape Route
+3) Shortest Path (BFS)
+4) Back
+
+Enter Menu item to continue: 
+Input Error: Enter a number between 1 and 4 ....
+
+------------- SOLVE MAZE -------------
+1) Solve Manually
+2) Show Escape Route
+3) Shortest Path (BFS)
+4) Back
+
+Enter Menu item to continue: 
+Input Error: Enter a number between 1 and 4 ....
+
+------------- SOLVE MAZE -------------
+1) Solve Manually
+2) Show Escape Route
+3) Shortest Path (BFS)
+4) Back
+
+Enter Menu item to continue: 
+Input Error: Enter a number between 1 and 4 ....
+
+------------- SOLVE MAZE -------------
+1) Solve Manually
+2) Show Escape Route
+3) Shortest Path (BFS)
+4) Back
+
+Enter Menu item to continue: 
+Input Error: Enter a number between 1 and 4 ....
+
+------------- SOLVE MAZE -------------
+1) Solve Manually
+2) Show Escape Route
+3) Shortest Path (BFS)
+4) Back
+
+Enter Menu item to continue: 
+
+EOF received. Program will now safely exit.

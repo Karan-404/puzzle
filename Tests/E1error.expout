@@ -1,0 +1,106 @@
+Test mode activated.
+
+Welcome to MineCraft MazeRunner!
+--------------------------------
+
+------------- MAIN MENU -------------
+1) Generate Maze
+2) Build Maze in MineCraft
+3) Solve Maze
+4) Show Team Information
+5) Exit
+
+Enter Menu item to continue: 
+
+------------- GENERATE MAZE -------------
+1) Read Maze from terminal
+2) Generate Random Maze
+3) Generate Maze Without Flattening the Terrain 
+4) Check the maze for loops and isolated areas 
+5) Back
+
+Enter Menu item to continue: 
+Suggestion: Create a maze in a new place other than the existing maze position to get a Perfect Maze.
+ OR Exit and Restart if you want to build the maze in an existing maze position (Check README.md for details).
+
+In Minecraft, navigate to where you want the maze to be built and type 'done':
+Type 'back' to return to the main menu.
+Please type 'done' when ready, or 'back' to return to the main menu:
+Please type 'done' when ready, or 'back' to return to the main menu:
+Please type 'done' when ready, or 'back' to return to the main menu:
+Please type 'done' when ready, or 'back' to return to the main menu:
+Please type 'done' when ready, or 'back' to return to the main menu:
+Please type 'done' when ready, or 'back' to return to the main menu:
+Please type 'done' when ready, or 'back' to return to the main menu:
+Please type 'done' when ready, or 'back' to return to the main menu:
+Please type 'done' when ready, or 'back' to return to the main menu:
+Please type 'done' when ready, or 'back' to return to the main menu:
+Enter the length and width of the maze (must be odd numbers):
+Input Error: Only positive integer values are allowed for dimensions. Please enter again:
+Input Error: Dimensions must be greater than 2. Please enter again:
+Input Error: Both dimensions must be odd numbers. Please enter again:
+Input Error: Both dimensions must be odd numbers. Please enter again:
+Input Error: Both dimensions must be odd numbers. Please enter again:
+Input Error: Dimensions must be greater than 2. Please enter again:
+Input Error: Dimensions must be greater than 2. Please enter again:
+Input Error: Dimensions must be greater than 2. Please enter again:
+Input Error: Only positive integer values are allowed for dimensions. Please enter again:
+Input Error: Only positive integer values are allowed for dimensions. Please enter again:
+**Printing Maze**
+BasePoint: (4869, 66, 4516)
+Structure:
+xoxxx
+o...x
+x.xxx
+x...x
+xxxxx
+**End Printing Maze**
+
+------------- MAIN MENU -------------
+1) Generate Maze
+2) Build Maze in MineCraft
+3) Solve Maze
+4) Show Team Information
+5) Exit
+
+Enter Menu item to continue: 
+Building the maze in Minecraft...
+The maze was successfully built in Minecraft!
+
+------------- MAIN MENU -------------
+1) Generate Maze
+2) Build Maze in MineCraft
+3) Solve Maze
+4) Show Team Information
+5) Exit
+
+Enter Menu item to continue: 
+
+------------- SOLVE MAZE -------------
+1) Solve Manually
+2) Show Escape Route
+3) Shortest Path (BFS)
+4) Back
+
+Enter Menu item to continue: 
+Player moved inside the Maze
+
+------------- SOLVE MAZE -------------
+1) Solve Manually
+2) Show Escape Route
+3) Shortest Path (BFS)
+4) Back
+
+Enter Menu item to continue: 
+
+------------- MAIN MENU -------------
+1) Generate Maze
+2) Build Maze in MineCraft
+3) Solve Maze
+4) Show Team Information
+5) Exit
+
+Enter Menu item to continue: 
+
+The End!
+

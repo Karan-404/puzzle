@@ -1,0 +1,195 @@
+Test mode activated.
+
+Welcome to MineCraft MazeRunner!
+--------------------------------
+
+------------- MAIN MENU -------------
+1) Generate Maze
+2) Build Maze in MineCraft
+3) Solve Maze
+4) Show Team Information
+5) Exit
+
+Enter Menu item to continue: 
+
+------------- SOLVE MAZE -------------
+1) Solve Manually
+2) Show Escape Route
+3) Shortest Path (BFS)
+4) Back
+
+Enter Menu item to continue: 
+Please create a maze first.
+
+------------- SOLVE MAZE -------------
+1) Solve Manually
+2) Show Escape Route
+3) Shortest Path (BFS)
+4) Back
+
+Enter Menu item to continue: 
+Please create a maze first.
+
+------------- SOLVE MAZE -------------
+1) Solve Manually
+2) Show Escape Route
+3) Shortest Path (BFS)
+4) Back
+
+Enter Menu item to continue: 
+
+------------- MAIN MENU -------------
+1) Generate Maze
+2) Build Maze in MineCraft
+3) Solve Maze
+4) Show Team Information
+5) Exit
+
+Enter Menu item to continue: 
+
+------------- GENERATE MAZE -------------
+1) Read Maze from terminal
+2) Generate Random Maze
+3) Generate Maze Without Flattening the Terrain 
+4) Check the maze for loops and isolated areas 
+5) Back
+
+Enter Menu item to continue: 
+Suggestion: Create a maze in a new place other than the existing maze position to get a Perfect Maze.
+ OR Exit and Restart if you want to build the maze in an existing maze position (Check README.md for details).
+
+In Minecraft, navigate to where you want the maze to be built and type 'done':
+Type 'back' to return to the main menu.
+Enter the length and width of the maze:
+**Printing Maze**
+BasePoint: (4819, 81, 4463)
+Structure:
+xxxxxxx
+....x.x
+x.xxx.x
+x...x.x
+x.xxx.x
+x.....x
+xxxxxxx
+**End Printing Maze**
+
+------------- MAIN MENU -------------
+1) Generate Maze
+2) Build Maze in MineCraft
+3) Solve Maze
+4) Show Team Information
+5) Exit
+
+Enter Menu item to continue: 
+
+------------- SOLVE MAZE -------------
+1) Solve Manually
+2) Show Escape Route
+3) Shortest Path (BFS)
+4) Back
+
+Enter Menu item to continue: 
+Please generate the maze first.
+
+------------- SOLVE MAZE -------------
+1) Solve Manually
+2) Show Escape Route
+3) Shortest Path (BFS)
+4) Back
+
+Enter Menu item to continue: 
+
+------------- MAIN MENU -------------
+1) Generate Maze
+2) Build Maze in MineCraft
+3) Solve Maze
+4) Show Team Information
+5) Exit
+
+Enter Menu item to continue: 
+Building the maze in Minecraft...
+The maze was successfully built in Minecraft!
+
+------------- MAIN MENU -------------
+1) Generate Maze
+2) Build Maze in MineCraft
+3) Solve Maze
+4) Show Team Information
+5) Exit
+
+Enter Menu item to continue: 
+
+------------- SOLVE MAZE -------------
+1) Solve Manually
+2) Show Escape Route
+3) Shortest Path (BFS)
+4) Back
+
+Enter Menu item to continue: 
+Player moved inside the Maze
+
+------------- SOLVE MAZE -------------
+1) Solve Manually
+2) Show Escape Route
+3) Shortest Path (BFS)
+4) Back
+
+Enter Menu item to continue: 
+The player must be inside a maze for this function to work.
+1) Continue
+2) Back
+Please enter 1 or 2: Follow the lime carpet...
+Player Position Starting at (4824, 67, 4468)
+Step[1]: (4824, 66, 4468)
+Step[2]: (4824, 66, 4467)
+Step[3]: (4824, 66, 4466)
+Step[4]: (4824, 66, 4465)
+Step[5]: (4824, 66, 4464)
+Step[6]: (4824, 66, 4464)
+Step[7]: (4824, 66, 4464)
+Step[8]: (4824, 66, 4465)
+Step[9]: (4824, 66, 4466)
+Step[10]: (4824, 66, 4467)
+Step[11]: (4824, 66, 4468)
+Step[12]: (4823, 66, 4468)
+Step[13]: (4822, 66, 4468)
+Step[14]: (4821, 66, 4468)
+Step[15]: (4820, 67, 4468)
+Step[16]: (4820, 67, 4467)
+Step[17]: (4820, 67, 4466)
+Step[18]: (4821, 67, 4466)
+Step[19]: (4822, 66, 4466)
+Step[20]: (4822, 66, 4466)
+Step[21]: (4822, 66, 4466)
+Step[22]: (4821, 67, 4466)
+Step[23]: (4820, 67, 4466)
+Step[24]: (4820, 67, 4465)
+Step[25]: (4820, 67, 4464)
+Step[26]: (4821, 67, 4464)
+Step[27]: (4822, 67, 4464)
+Step[28]: (4822, 67, 4464)
+Step[29]: (4822, 67, 4464)
+Step[30]: (4821, 67, 4464)
+Step[31]: (4820, 67, 4464)
+Step[32]: (4819, 68, 4464)
+You have reached the exit!
+
+------------- SOLVE MAZE -------------
+1) Solve Manually
+2) Show Escape Route
+3) Shortest Path (BFS)
+4) Back
+
+Enter Menu item to continue: 
+
+------------- MAIN MENU -------------
+1) Generate Maze
+2) Build Maze in MineCraft
+3) Solve Maze
+4) Show Team Information
+5) Exit
+
+Enter Menu item to continue: 
+
+The End!
+
